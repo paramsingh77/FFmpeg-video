@@ -1,0 +1,22 @@
+@import url('https://fonts.cdnfonts.com/css/afacad');
+*{
+  margin: 0;
+  padding: 0;
+}
+.title{
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+  font-family: 'afacad',sans-serif;
+}
+.backg{
+  width: 100vw;
+  height: 100vh;
+  background-color: azure;
+}
+.video{
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
